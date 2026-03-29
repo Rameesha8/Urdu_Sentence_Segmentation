@@ -61,7 +61,8 @@ Urdu_Sentence_Segmentation/
 
 2. **Run notebook:**
    Open notebooks/Urdu_Sentence_Segmentation.ipynb in Jupyter Notebook or VSCode.
-**Outputs:**
+   
+   **Outputs:**
    Cleaned dataset → data/processed/urdu_tweets_cleaned.csv
    Comparison plots → results/segmentation_comparison_plot.png
 
