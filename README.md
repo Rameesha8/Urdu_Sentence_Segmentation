@@ -35,6 +35,7 @@ This project focuses on applying multiple sentence segmentation algorithms to **
 ---
 
 ## Folder Structure
+```
 
 Urdu_Sentence_Segmentation/
 ├── data/
@@ -48,6 +49,7 @@ Urdu_Sentence_Segmentation/
 ├── .gitignore
 ├── requirements.txt
 └── README.md
+```
 
 
 ---
