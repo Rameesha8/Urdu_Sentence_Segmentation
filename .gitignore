@@ -30,3 +30,5 @@ Thumbs.db
 # PyCharm / VSCode settings
 .idea/
 .vscode/
+# Local secrets
+.env
